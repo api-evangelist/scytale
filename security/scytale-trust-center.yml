@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+source: https://scytale.ai/security/
+url: https://trust.scytale.ai/
+certifications:
+- SOC 2
+- ISO 27001
+- ISO 42001
+- CSA STAR Level 1
+- GDPR
+compliance_programs:
+- SOC 2
+- ISO 27001
+- ISO 42001
+- GDPR
+- CSA STAR Level 1
+notes: >-
+  Scytale publishes its own compliance posture on its security page and operates a
+  customer-facing Trust Center at trust.scytale.ai. As a GRC/compliance-automation vendor,
+  Scytale states it is SOC 2 compliant, ISO 27001 certified, ISO 42001 certified, GDPR
+  compliant, and CSA STAR (Cloud Security Alliance) Level 1 certified. Certifications were
+  read from the public security page; the Trust Center itself is a JavaScript single-page
+  app and was not machine-scraped.
+evidence:
+- source: https://scytale.ai/security/
+  keywords: [soc 2, iso 27001, iso 42001, gdpr, csa, trust center]
+- source: https://trust.scytale.ai/
+  kind: trust-center-link

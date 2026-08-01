@@ -1,0 +1,14 @@
+{
+  "repo": "scytale",
+  "feeds": [
+    {
+      "source": "https://scytale.ai/pricing/",
+      "feed_url": "https://scytale.ai/feed/",
+      "title": "",
+      "saved": 3,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 3,
+  "fetched": "2026-07-25T15:00:33Z"
+}

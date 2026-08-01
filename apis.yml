@@ -1,24 +1,79 @@
 aid: scytale
 name: Scytale
-description: 'Scytale is a company surfaced as a portfolio company of bessemer-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Scytale is an AI-powered Governance, Risk, and Compliance (GRC) platform that automates
+  security compliance for cloud and SaaS companies. It combines AI agents with in-house
+  compliance experts to automate evidence collection, continuous control monitoring,
+  cross-framework control mapping, and audit-readiness across 80+ frameworks including
+  SOC 2, ISO 27001, ISO 42001, HIPAA, PCI DSS, GDPR, SOX ITGC, C5, and CMMC. The platform
+  connects to cloud providers, LLMs, HRIS, and security tooling, and offers a customizable
+  customer-facing Trust Center plus integrated penetration testing. Scytale is backed by
+  Bessemer Venture Partners.
 url: https://raw.githubusercontent.com/api-evangelist/scytale/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - bessemer-venture-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://scytale.ai/wp-content/uploads/2026/04/Scytale-white-logo.svg
 tags:
 - Company
 - Cloud
+- Compliance
+- Governance
+- Risk
+- Security
+- GRC
+- SOC 2
+- ISO 27001
+- Audit
+- Trust Center
+common:
+- type: Website
+  url: https://scytale.ai/
+- type: Pricing
+  url: https://scytale.ai/pricing/
+- type: Blog
+  url: https://scytale.ai/resources/
+- type: PrivacyPolicy
+  url: https://scytale.ai/privacy-policy/
+- type: Security
+  url: https://scytale.ai/security/
+- type: Compliance
+  url: https://scytale.ai/security/
+- type: TrustCenter
+  url: https://trust.scytale.ai/
+- type: Login
+  url: https://app.scytale.ai
+- type: GitHubOrganization
+  url: https://github.com/scytale-ai
+- type: TrustCenter
+  url: security/scytale-trust-center.yml
+- type: DomainSecurity
+  url: security/scytale-domain-security.yml
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
