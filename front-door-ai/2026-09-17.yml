@@ -1,0 +1,32 @@
+# Front Door AI Index — scytale — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: scytale
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: scytale.ai
+  final_host: scytale.ai
+  ownership: own
+  owner: scytale
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 26
+  host_score: 26
+  density: 11.55
+  words: 2251
+  tiers:
+    agentic: 5
+    core: 21
+    model: 0
+  ambiguous: 19
+  top_terms:
+    AI: 20
+    agent: 8
+    intelligence: 6
+    automation: 4
+    agentic: 3
+    AI agent: 2
+    LLMs: 1
+    predictive: 1
