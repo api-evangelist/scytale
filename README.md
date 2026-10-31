@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Scytale is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: cloud. This profile is a lead awaiting the enrichment pipeline.
+Scytale is an AI-powered Governance, Risk, and Compliance (GRC) platform that automates security compliance for cloud and SaaS companies. It combines AI agents with in-house compliance experts to automate evidence collection, continuous control monitoring, cross-framework control mapping, and audit-readiness across 80+ frameworks including SOC 2, ISO 27001, ISO 42001, HIPAA, PCI DSS, GDPR, SOX ITGC, C5, and CMMC. The platform connects to cloud providers, LLMs, HRIS, and security tooling, and offers a customizable customer-facing Trust Center plus integrated penetration testing. Scytale is backed by Bessemer Venture Partners.
 
-Backed by: bessemer-venture-partners
+**Areas:** Company · Cloud · Compliance · Governance · Risk Management · Security · GRC · SOC 2 · ISO 27001 · Audit · Trust Center
+
+## Scytale on APIs.io
+
+Everything profiled for Scytale is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/scytale/](https://apis.io/providers/scytale/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Scytale Domain Security](https://apis.io/security/scytale/scytale-domain-security/)
+- [Scytale Trust Center](https://apis.io/security/scytale/scytale-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scytale.ai/)
+- [Pricing](https://scytale.ai/pricing/)
+- [Blog](https://scytale.ai/resources/)
+- [Security](https://scytale.ai/security/)
+- [Compliance](https://scytale.ai/security/)
+- [Trust centre](https://trust.scytale.ai/)
+- [Privacy policy](https://scytale.ai/privacy-policy/)
+- [GitHub](https://github.com/scytale-ai)
+
+## API Evangelist rating
+
+**Kin Score 14.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 35.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/scytale/](https://apis.io/providers/scytale/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Scytale: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/scytale/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
